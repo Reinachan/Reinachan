@@ -1,20 +1,15 @@
 # Reina
 Norway - 23 - she/her - queer
 
-## Likes
-- Anime
-- Videogames
-- Programming (duh)
-- Making music
-- Listening to music
-- Photography
-- Drawing
-- Probably more that I forgot
-
 ## Languages
 - British English
 - HTML/CSS/SCSS
 - JavaScript/TypeScript
+
+## Currently working on
+- [Kitsu Wiki](https://github.com/hummingbird-me/kitsu-wiki)
+- [Kitsu React](https://github.com/Reinachan/kitsu-io-react)
+- [Post backup tool for Kitsu and AniList](https://github.com/Reinachan/anilist-kitsu-posts-to-joplin)
 
 ## Resides at
 - [Kitsu](https://kitsu.io/users/Reinachan)
@@ -24,10 +19,15 @@ Norway - 23 - she/her - queer
 - [Grouvee](https://www.grouvee.com/user/Reina/)
 - [Mastodon](https://antabaka.me/@Reina)
 
-## Currently working on
-- Kitsu Wiki
-- Kitsu React
-- Post backup tool for Kitsu and AniList
+## Likes
+- Anime
+- Videogames
+- Programming (duh)
+- Making music
+- Listening to music
+- Photography
+- Drawing
+- Probably more that I forgot
 
 <!--
 **Reinachan/Reinachan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
