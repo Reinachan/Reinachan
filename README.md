@@ -1,7 +1,3 @@
-<img src="https://i.imgur.com/QC0GW0R.png" align="left">
-
-<p align="right" height="50px" width="50px">test</div>
-
 # Reina
 Norway - 23 - they/them
 
