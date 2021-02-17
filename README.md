@@ -1,5 +1,5 @@
 # Reina
-Norway - 23 - she/her - queer
+Norway - 23 - they/them
 
 ## Languages
 - British English
@@ -10,14 +10,6 @@ Norway - 23 - she/her - queer
 - [Kitsu Wiki](https://github.com/hummingbird-me/kitsu-wiki)
 - [Kitsu React](https://github.com/Reinachan/kitsu-io-react)
 - [Post backup tool for Kitsu and AniList](https://github.com/Reinachan/anilist-kitsu-posts-to-joplin)
-
-## Resides at
-- [Kitsu](https://kitsu.io/users/Reinachan)
-- [AniList](https://anilist.co/user/Reina)
-- Discord: Reina#5448
-- [Steam](https://steamcommunity.com/id/Reinacchan/)
-- [Grouvee](https://www.grouvee.com/user/Reina/)
-- [Mastodon](https://antabaka.me/@Reina)
 
 ## Likes
 - Anime
