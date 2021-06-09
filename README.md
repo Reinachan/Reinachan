@@ -5,9 +5,16 @@ Norway - 23 - they/them
 - British English
 - HTML/CSS/SCSS
 - TypeScript
-
-### Languages I'm slightly familiar with
 - Python
+
+## Support Me Financially
+Sponsor me directly [on GitHub](https://github.com/sponsors/Reinachan) or give me some crypto so that I can continue doing what I love :)
+
+**BTC**: 3CYuRVKrwbrpNavSuKFPrnSUsVYkahwAzs<br>
+**MATIC**: 0x3965F4F9d3233b0470b82863Fb102Cc5e22347b3<br>
+**OMG**: 0xea90e92aFd82177Edbf4F49A86a132A9Fb63E216<br>
+**USDC**: 0xfa40F956a28e66B8ee0d88E6ceBD1fba02BB30B5<br>
+**DOGE**: DHZtSJjFpmYVZSDQeuMWTFfxdZ61huTtJr<br>
 
 ## Projects
 Here I'll be listing various projects I work on or are contributing to.
