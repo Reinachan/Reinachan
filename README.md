@@ -22,6 +22,7 @@ Here I'll be listing various projects I work on or are contributing to.
 ### Primary
 - [Kitsu Wiki](https://github.com/hummingbird-me/kitsu-wiki)
 - [Kitsu Web](https://github.com/hummingbird-me/kitsu-web)
+- [Steam Screenshots Sorter](https://github.com/Reinachan/Steam-Screenshots-Sorter)
 - [AniList High-Contrast Dark-Theme](https://github.com/Reinachan/AniList-High-Contrast-Dark-Theme)
 
 ### Simple tools
