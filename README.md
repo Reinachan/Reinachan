@@ -44,6 +44,7 @@ Here I'll be listing various projects I work on or are contributing to.
 ### Incomplete
 
 [Post backup tool for Kitsu and AniList](https://github.com/Reinachan/anilist-kitsu-posts-to-joplin) - Will fetch your posts on Kitsu and AniList and back it up offline in Joplin. For now, you can use the terribly written [version](https://github.com/Reinachan/AniList-Posts-to-Joplin) that was my first coding project
+
 [AniList Userscripts](https://github.com/Reinachan/Reina-AniList-Userscripts) - Various userscripts for AniList. Currently only implements the emoji conversion tool before posting posts.
 
 ## Support Me Financially
