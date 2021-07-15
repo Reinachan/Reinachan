@@ -34,7 +34,9 @@ Various projects I work on or are contributing to.
 
 [Steam Screenshots Sorter](https://github.com/Reinachan/Steam-Screenshots-Sorter) - Written entirely by myself in Python. Sorts your Steam screenshots into folders, eventually I'll make it hardlink them and sort the hardlinked versions instead.
 
-[Kitsu Reports to Webhook](https://github.com/Reinachan/Kitsu-Reports-Webhook) - Written from scratch. Fetches latest reports from Kitsu and posts it to a Discord webhook.
+[Kitsu Reports to Webhook](https://github.com/Reinachan/Kitsu-Reports-Webhook) - A tool I wrote in Python that fetches latest reports from Kitsu and posts it to a Discord webhook.
+
+[Kitsu Timed Unbans](https://github.com/Reinachan/kitsu-unban) - Another tool I wrote using `ts-node` that interfaces with a Google Sheet and unbans users at a specified time with the option of notifying the user with a message when they're unbanned.
 
 [Kitsu Wiki](https://github.com/hummingbird-me/kitsu-wiki) - Designed the UI/UX and styled it. Wrote parts of the logic.
 
