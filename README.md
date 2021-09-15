@@ -28,7 +28,7 @@
 
 ## Projects
 
-Various projects I work on or are contributing to.
+Various projects I work on or am contributing to.
 
 ### Primary
 
