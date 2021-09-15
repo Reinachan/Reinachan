@@ -1,14 +1,18 @@
-<h1 align="center">Reina</h1>
+<img src="flair.svg" align="center" height="80px" width="100%" alt="Reina" />
 
 <p align="center">Norway - 23 - they/them</p>
 
 <div align="center"><img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/Reinachan?logo=github"> <img src="https://komarev.com/ghpvc/?username=reinachan&label=Profile%20views&color=0e75b6&style=flat" alt="reinachan" /> </div>
 
-<div align="center">Reina's a frontend programmer who dabbles a bit in backend code. Challenge is their primary motivation as well as their drive to learn as much as possible.
+<br>
 
-It all started with several userstyles tweaking websites to fit their needs. It worked out well for a while but the thirst for knowledge got them helping out at Kitsu which is what they're currently still doing. Working for Kitsu, Reina has learnt TypeScript and React in collaboration with another developer and Python on their own as they aimed to automate repetitive tasks.
+<div align="center">
+<p>Reina's a frontend programmer who dabbles a bit in backend code. Challenge is their primary motivation as well as their drive to learn as much as possible.</p>
 
-While Reina is most adept at the frontend, they're ready to take on any challenge, even if that involves learning new languages and coding concepts.</div>
+<p>It all started with several userstyles tweaking websites to fit their needs. It worked out well for a while but the thirst for knowledge got them helping out at Kitsu which is what they're currently still doing. Working for Kitsu, Reina has learnt TypeScript and React in collaboration with another developer and Python on their own as they aimed to automate repetitive tasks.</p>
+
+<p>While Reina is most adept at the frontend, they're ready to take on any challenge, even if that involves learning new languages and coding concepts.</p>
+</div>
 
 ## Languages and Tools
 
