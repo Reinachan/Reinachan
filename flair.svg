@@ -14,6 +14,10 @@
 <div class="container">
   <h1>Reina</h1>
 </div>
+
+<script>
+alert("hello world");
+</script>
 </div>
 </foreignObject>
 </svg>
