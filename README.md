@@ -7,11 +7,7 @@
 <br>
 
 <div align="center">
-<p>Reina's a frontend programmer who dabbles a bit in backend code. Challenge is their primary motivation as well as their drive to learn as much as possible.</p>
-
-<p>It all started with several userstyles tweaking websites to fit their needs. It worked out well for a while but the thirst for knowledge got them helping out at Kitsu which is what they're currently still doing. Working for Kitsu, Reina has learnt TypeScript and React in collaboration with another developer and Python on their own as they aimed to automate repetitive tasks.</p>
-
-<p>While Reina is most adept at the frontend, they're ready to take on any challenge, even if that involves learning new languages and coding concepts.</p>
+<p>Reina is a frontend developer with a passion for accessibility.</p>
 </div>
 
 ## Languages and Tools
