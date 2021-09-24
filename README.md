@@ -2,7 +2,9 @@
 
 <p align="center">Norway - 23 - they/them</p>
 
-<div align="center"><img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/Reinachan?logo=github"> <img src="https://komarev.com/ghpvc/?username=reinachan&label=Profile%20views&color=0e75b6&style=flat" alt="reinachan" /> </div>
+<div align="center">
+  <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/Reinachan?logo=github&style=for-the-badge"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Reinachan?affiliations=OWNER&style=for-the-badge">
+</div>
 
 <br>
 
