@@ -1,7 +1,7 @@
 <!-- <img src="flair.svg" align="center" height="80px" width="100%" alt="Reina" /> -->
 <h1 align="center">Reina</h1>
 
-<p align="center">Norway - 23 - She / Her</p>
+<p align="center">Norway - 24 - She / Her</p>
 
 <div align="center">
   <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/Reinachan?logo=github&style=for-the-badge"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Reinachan?affiliations=OWNER&style=for-the-badge">
