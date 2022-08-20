@@ -37,6 +37,8 @@ Various projects I work on or am contributing to.
 
 ### Primary
 
+[Knucklebones](https://knucklebones.reinina.moe/) - Fun little competitive dice game for two. Built with the Svelte framework in approximately a day.
+
 [Steam Screenshots Sorter](https://github.com/Reinachan/Steam-Screenshots-Sorter) - Written entirely by myself in Python. Sorts your Steam screenshots into folders, eventually I'll make it hardlink them and sort the hardlinked versions instead.
 
 [Kitsu Reports to Webhook](https://github.com/Reinachan/Kitsu-Reports-Webhook) - A tool I wrote in Python that fetches latest reports from Kitsu and posts it to a Discord webhook.
