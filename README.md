@@ -43,7 +43,7 @@ Various projects I work on or am contributing to.
 
 [Kitsu Reports to Webhook](https://github.com/Reinachan/Kitsu-Reports-Webhook) - A tool I wrote in Python that fetches latest reports from Kitsu and posts it to a Discord webhook.
 
-[Kitsu Timed Unbans](https://github.com/Reinachan/kitsu-unban) - Another tool I wrote using `ts-node` that interfaces with a Google Sheet and unbans users at a specified time with the option of notifying the user with a message when they're unbanned.
+[Kitsu Moderator Bot](https://github.com/Reinachan/kitsu-unban) - Another tool I wrote using `ts-node` that interfaces with a Google Sheet and unbans users at a specified time with the option of notifying the user with a message when they're unbanned. It also sends community reports to a Discord channel and keeps its status up to date.
 
 [Kitsu Wiki](https://github.com/hummingbird-me/kitsu-wiki) - Designed the UI/UX and styled it. Wrote parts of the logic.
 
