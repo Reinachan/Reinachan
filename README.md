@@ -63,13 +63,9 @@ Various projects I work on or am contributing to.
 
 ## Support Me Financially
 
-Sponsor me directly [on GitHub](https://github.com/sponsors/Reinachan) or give me some crypto so that I can continue doing what I love :)
-
-<details><summary>BTC</summary>3CYuRVKrwbrpNavSuKFPrnSUsVYkahwAzs</details>
-<details><summary>MATIC</summary>0x3965F4F9d3233b0470b82863Fb102Cc5e22347b3</details>
-<details><summary>OMG</summary>0xea90e92aFd82177Edbf4F49A86a132A9Fb63E216</details>
-<details><summary>USDC</summary>0xfa40F956a28e66B8ee0d88E6ceBD1fba02BB30B5</details>
-<details><summary>DOGE</summary>DHZtSJjFpmYVZSDQeuMWTFfxdZ61huTtJr</details><br>
+Sponsor me directly [on GitHub](https://github.com/sponsors/Reinachan) so I can continue doing what I love :)
+  
+## Stats
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reinachan" alt="reinachan" /></a> </p>
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=reinachan&show_icons=true&theme=onedark&hide_border=true&locale=en" alt="reinachan" /></p>
