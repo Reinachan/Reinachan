@@ -36,6 +36,8 @@
 Various projects I work on or am contributing to.
 
 ### Primary
+  
+[Kitsu Anime Awards client](https://github.com/KitsuCommunity/kitsuawards-client) - The web client for the Kitsu Anime Awards. Written from scratch in React with minimal dependencies. Entirely written and designed by me.
 
 [Knucklebones](https://knucklebones.reinina.moe/) - Fun little competitive dice game for two. Built with the Svelte framework in approximately a day.
 
